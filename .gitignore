@@ -1,0 +1,6 @@
+/certs/
+*.key
+*.exe
+*.db
+*.db-shm
+*.db-wal
